@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: single
 title:  "Jupyter Notebook with Virtualenv Setting"
 date:   2019-10-23 02:10:10 +0800
-categories: jekyll update
+categories: Python
+tags: python jupyter-notebook virtualenv
 ---
 因為最近在學習DRL使用Virtualenv建立一個學習的虛擬環境。
 學習的過程中發現，用Jupyter Notebook來建立自己的DRL學習筆記似乎是一個很棒的決定。
