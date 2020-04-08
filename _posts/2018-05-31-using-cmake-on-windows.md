@@ -4,7 +4,7 @@ title: 'Using CMake on Windows'
 date: 2018-05-31 20:13
 comments: true
 categories: Development-Environment
-tags: Windows CMake
+tags: windows cmake
 ---
 習慣在Linux下開發之後，臨時要在Windows下快速編譯一個專案覺得好麻煩
 (實在不想用肥得要命的Visual Studio)

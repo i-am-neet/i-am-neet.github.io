@@ -4,7 +4,7 @@ title: 'Linux找不到網卡、網卡設定'
 date: 2018-07-02 12:06
 comments: true
 categories: Development-Environment
-tags: Linux Driver Network
+tags: linux driver network
 ---
 最近重灌一台Intel NUC，要在上面跑Ubuntu 16.04
 
